@@ -1,6 +1,6 @@
 #!/bin/bash 
-#a=56
-b=89
+a=10
+#b=54
 sum=$(a+b)
 #echo $sum
 echo $sum
