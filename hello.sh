@@ -4,3 +4,6 @@ a=10
 sum=$(a+b)
 #echo $sum
 echo $sum
+subtraction=$(a-b)
+echo $subtraction
+echo "codinclub"
